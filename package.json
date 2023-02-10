@@ -1,0 +1,27 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ch1nmayH/Request-Header-Parser-Microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ch1nmayH/Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/Ch1nmayH/Request-Header-Parser-Microservice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
